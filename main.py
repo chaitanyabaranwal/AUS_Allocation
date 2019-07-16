@@ -62,4 +62,4 @@ for _ in range(2):
                 speaker_allocation_dict[speaker] -= 1
 
 # Final allocations available!
-print(sum(speaker_allocation_dict.values()))
+print(final_allocations)
