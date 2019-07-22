@@ -1,3 +1,7 @@
+"""
+This is used to find the distribution of participants for each speaker.
+"""
+
 import pandas as pd
 from collections import defaultdict
 
